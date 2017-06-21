@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+/*font-family: 'Monoton', cursive;
+font-family: 'Open Sans', sans-serif;*/
+
+a:link {
+	color: rgba(0, 0, 0, 0.7); 
+}
+
+.fixed {
+	position: fixed;
+	z-index: 0;
+}
+
+.navbar-nav {
+	margin-bottom: 0px;
+}
+
+.active {
+	font-size: 1.75rem;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.blue {
+	color: #399bd1; 
+}
+
+.hide {
+	display: inline;
+}
+
+.jumbotron {
+	background-color: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+ a title {
+    vertical-align: middle;
+	font-size: 3rem;
+}
+
+.container2 {
+	margin: 20px;
+}
+
+h1 {
+	font-size: 1.7rem;
+	font-weight: bold;
+	color: #399bd1;
+	margin: 20px 0px;
+}
+
+p img {
+	width: 100%;
+	height: auto;
+}
+
+h2 {
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.col2 {
+	line-height: 150%;
+	color: rgba(0, 0, 0, 0.7);
+	font-size: 1.2rem;
+}
+
+.col2 img {
+	margin-bottom: 5px;
+	width: 100%;
+	height: auto;
+}
+
+.container3 {
+	max-width: 100%;
+	min-height: 200px;
+	background-color: #f3f3f3;
+	margin-top: 5rem;
+	padding-top: 5.2rem;
+	padding-bottom: 5.2rem;
+}
+
+.footer {
+	max-width: 42rem;
+	min-width: 42rem;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+
+.footer h4 {
+	font-size: 2.5rem;
+	font-weight: bold;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.footerp {
+	margin-top: 1.4rem;
+}
+
+.center {
+	text-align: center;
+	margin-top: 20px;
+}
+
